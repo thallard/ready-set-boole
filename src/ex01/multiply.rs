@@ -1,5 +1,6 @@
 use crate::ex00::adder::add;
 
+#[allow(dead_code)]
 // Multiply two natural numbers
 pub fn mul(mut a: u32, mut b: u32) -> u32 {
     let mut result = 0 as u32;
