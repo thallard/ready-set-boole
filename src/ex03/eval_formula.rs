@@ -19,7 +19,6 @@ fn eval_formula(formula: &str) -> bool {
     return true;
 }
 
-
 // Test section
 #[cfg(test)]
 mod tests {
